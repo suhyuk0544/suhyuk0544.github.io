@@ -1,0 +1,35 @@
+.main-box{
+    width: 800px;
+    margin: auto;
+    padding: 25px;
+    border: 1px solid;
+    border-radius: 25px;
+}
+.title-box{
+    display: flex;
+    flex-direction: row;
+}
+.title-box-test{
+    margin: 25px;
+}
+.JOB{
+    color: aquamarine;
+}
+.float{
+    display: flex;
+    justify-content: space-between;
+}
+.section-title{
+    border-bottom: 1px solid black;
+}
+.sns{
+    display: flex;
+    justify-content: flex-end;
+}
+.sns img{
+    margin: 5px;
+}
+footer{
+
+}
+
